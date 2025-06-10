@@ -1,0 +1,32 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.box{
+    background-image: url(./1\ \(4\).png) ;
+    width: 1500px;
+    height: 800px;
+    
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+.box2{
+    width: 679px;
+    height: 227px
+;
+}
+.box2 h1{
+ font-size: 96px;
+}
+.box5{
+    background-color: rgb(52, 52, 52);
+}
+h1{
+    text-align: center;
+}
